@@ -33,33 +33,33 @@ seckill是一个完整秒杀商品的demo项目，来源慕课网课程《Java�
 ## 项目截图
 项目启动成功后将显示如下页面：
 
-![image](https://github.com/goldsudo/kill/blob/master/SNAP-SHOT/home.png?raw=true)
+![image](https://github.com/goldsudo/seckill/blob/master/SNAP-SHOT/home.png?raw=true)
 
 列表页：
 
-![image](https://github.com/goldsudo/kill/blob/master/SNAP-SHOT/list.png?raw=true)
+![image](https://github.com/goldsudo/seckill/blob/master/SNAP-SHOT/list.png?raw=true)
 
 详情页，提示输入手机号：
 
-![image](https://github.com/goldsudo/kill/blob/master/SNAP-SHOT/phone.png?raw=true)
+![image](https://github.com/goldsudo/seckill/blob/master/SNAP-SHOT/phone.png?raw=true)
 
 手机号码校验：
 
-![image](https://github.com/goldsudo/kill/blob/master/SNAP-SHOT/wrong-phone.png?raw=true)
+![image](https://github.com/goldsudo/seckill/blob/master/SNAP-SHOT/wrong-phone.png?raw=true)
 
 秒杀界面：
 
-![image](https://github.com/goldsudo/kill/blob/master/SNAP-SHOT/start.png?raw=true)
+![image](https://github.com/goldsudo/seckill/blob/master/SNAP-SHOT/start.png?raw=true)
 
 秒杀成功：
 
-![image](https://github.com/goldsudo/kill/blob/master/SNAP-SHOT/success.png?raw=true)
+![image](https://github.com/goldsudo/seckill/blob/master/SNAP-SHOT/success.png?raw=true)
 
 重复秒杀：
 
-![image](https://github.com/goldsudo/kill/blob/master/SNAP-SHOT/repeat.png?raw=true)
+![image](https://github.com/goldsudo/seckill/blob/master/SNAP-SHOT/repeat.png?raw=true)
 
 秒杀尚未开始时，展示倒计时：
 
-![image](https://github.com/goldsudo/kill/blob/master/SNAP-SHOT/countdown.png?raw=true)
+![image](https://github.com/goldsudo/seckill/blob/master/SNAP-SHOT/countdown.png?raw=true)
 
