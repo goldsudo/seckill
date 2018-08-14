@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>ssm+mysql秒杀系统</h2>
+<h2>seckill</h2>
+<h3>input url to visit: localhost:8080/seckill/list </h3>
 </body>
 </html>

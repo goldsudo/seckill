@@ -39,7 +39,7 @@ KEY idx_create_time(create_time)
 )ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='秒杀成功明细表';
 
 --连接数据库控制台
-mysql -u root -p
+--mysql -u root -p
 
 --执行秒杀入库操作事务的存储过程：excuteSeckill
 --入参：seckillId userPhone seckillTime 出参：seckillResult(0:成功，-1：重复秒杀 -2：秒杀结束[库存为空或时间过期])
