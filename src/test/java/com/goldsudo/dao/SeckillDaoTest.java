@@ -48,7 +48,7 @@ public class SeckillDaoTest {
 
         System.out.println(seckill.getName());
         System.out.println(seckill);
-        Assert.assertEquals(seckill.getName(), "1000元秒杀iphone7");
+        Assert.assertEquals(seckill.getName(), "1000元秒杀iphone6");
     }
 
     @Test

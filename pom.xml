@@ -27,9 +27,8 @@
       <scope>test</scope>
     </dependency>
 
-    <!--补全项目以来-->
+    <!--补全项目依赖-->
     <!--1 日志部分： sl4j是规范接口。logback，log4j是具体实现-->
-
     <dependency>
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-api</artifactId>
@@ -48,7 +47,7 @@
       <version>1.1.1</version>
     </dependency>
 
-    <!--2 数据库相关以来-->
+    <!--2 数据库相关依赖-->
     <dependency>
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
@@ -62,7 +61,7 @@
       <version>0.9.5.2</version>
     </dependency>
 
-    <!--3 DAO框架：MyBatise以来-->
+    <!--3 DAO框架：MyBatise依赖-->
     <dependency>
       <groupId>org.mybatis</groupId>
       <artifactId>mybatis</artifactId>
@@ -78,7 +77,7 @@
 
     <!--4 Sevelet依赖-->
     <dependency>
-      <groupId>taglib</groupId>
+      <groupId>taglibs</groupId>
       <artifactId>standard</artifactId>
       <version>1.1.2</version>
     </dependency>
@@ -105,7 +104,7 @@
     <!--4 spring依赖-->
     <dependency>
       <groupId>org.springframework</groupId>
-      <artifactId>srping-core</artifactId>
+      <artifactId>spring-core</artifactId>
       <version>4.1.7.RELEASE</version>
     </dependency>
 
