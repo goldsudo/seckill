@@ -1,6 +1,4 @@
-# seckill
-
-## 项目介绍
+## seckill项目介绍
 seckill是一个完整秒杀商品的demo项目，来源慕课网课程《Java高并发秒杀系统实践》，课程地址https://www.imooc.com/u/2145618/courses?sort=publish
 原课程讲的非常详细，但也因此该课程的老师也没有将源码贴在教程中，以督促学习视频的同学自己动手进行实践。
 我学习完课程后，参照着课程的讲解写出来了该项目，毕竟编程这件事情，想要提高的话，无他唯手熟尔。
@@ -35,18 +33,33 @@ seckill是一个完整秒杀商品的demo项目，来源慕课网课程《Java�
 ## 项目截图
 项目启动成功后将显示如下页面：
 
+![image](https://github.com/goldsudo/kill/blob/master/SNAP-SHOT/home.png?raw=true)
+
 列表页：
+
+![image](https://github.com/goldsudo/kill/blob/master/SNAP-SHOT/list.png?raw=true)
 
 详情页，提示输入手机号：
 
+![image](https://github.com/goldsudo/kill/blob/master/SNAP-SHOT/phone.png?raw=true)
+
 手机号码校验：
+
+![image](https://github.com/goldsudo/kill/blob/master/SNAP-SHOT/wrong-phone.png?raw=true)
 
 秒杀界面：
 
+![image](https://github.com/goldsudo/kill/blob/master/SNAP-SHOT/start.png?raw=true)
+
 秒杀成功：
+
+![image](https://github.com/goldsudo/kill/blob/master/SNAP-SHOT/success.png?raw=true)
 
 重复秒杀：
 
+![image](https://github.com/goldsudo/kill/blob/master/SNAP-SHOT/repeat.png?raw=true)
+
 秒杀尚未开始时，展示倒计时：
 
+![image](https://github.com/goldsudo/kill/blob/master/SNAP-SHOT/countdown.png?raw=true)
 
